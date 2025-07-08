@@ -5,7 +5,7 @@ Go to https://cla-assistant.io and sign in with your GitHub account.
 
 ## 2. Add Repository  
 Click "Configure CLA" and add your repository:
-- Repository: `secureprep/core`
+- Repository: `secureprep/secureprep-core`
 - CLA URL: https://gist.github.com/tuannguyenvku/935c0b214d95d5ad5344e083032c1456
 
 ## 3. Configure Settings
@@ -29,19 +29,20 @@ Add the CLA Assistant webhook manually if needed:
 ## 6. Badge Setup
 The CLA badge is already in README.md:
 ```
-[![CLA status](https://cla-assistant.io/repos/secureprep/core/badge.svg)]()
+[![CLA status](https://cla-assistant.io/repos/secureprep/secureprep-core/badge.svg)]()
 ```
 
 ## Important Notes
 - Contributors will see the CLA in PR comments
 - Once signed, they won't need to sign again for future PRs
-- You can view signatures at https://cla-assistant.io/secureprep/core
+- You can view signatures at https://cla-assistant.io/secureprep/secureprep-core
 - Make sure the gist is public and accessible
+- For questions, contact team@secureprep.dev
 
 ## Manual Steps Required
 1. Visit https://cla-assistant.io
 2. Sign in with your GitHub account (must be repo owner/admin)
 3. Click "Configure CLA"
-4. Add repository: secureprep/core
+4. Add repository: secureprep/secureprep-core
 5. Enter CLA URL: https://gist.github.com/tuannguyenvku/935c0b214d95d5ad5344e083032c1456
 6. Save configuration

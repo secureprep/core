@@ -1,8 +1,9 @@
 # SecurePrep Core
 
-Apache 2.0 lic## 📄 License
+Apache 2.0 licensed open-source core for SecurePrep - Privacy-preserving preprocessing toolkit.
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.rce core for SecurePrep.
+🌐 **Website**: https://secureprep.dev  
+📧 **Contact**: team@secureprep.dev
 
 [![CI](https://github.com/secureprep/secureprep-core/actions/workflows/ci.yml/badge.svg)](https://github.com/secureprep/secureprep-core/actions/workflows/ci.yml)
 [![CLA status](https://cla-assistant.io/repos/secureprep/secureprep-core/badge.svg)](https://cla-assistant.io/secureprep/secureprep-core)
@@ -35,15 +36,4 @@ We welcome contributions! Please:
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details. Core
-
-Apache 2.0 licensed open-source core for SecurePrep.
-
-[![CI](https://github.com/secureprep/core/actions/workflows/ci.yml/badge.svg)]()
-[![CLA status](https://cla-assistant.io/repos/secureprep/core/badge.svg)]()
-
-## Quickstart
-
-## Contributing
-
-Read [CONTRIBUTING.md] and sign [CLA.md].
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.

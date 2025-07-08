@@ -4,6 +4,8 @@ Thank you for your interest in contributing to SecurePrep ("We" or "Us").
 
 This contributor license agreement ("Agreement") documents the rights granted by contributors to Us. This is for your protection and the protection of the project and its users; it does not change your rights to use your own Contributions for any other purpose.
 
+For questions about this CLA, please contact team@secureprep.dev or visit https://secureprep.dev
+
 ## You accept and agree to the following terms and conditions for Your present and future Contributions submitted to Us:
 
 ### 1. Definitions

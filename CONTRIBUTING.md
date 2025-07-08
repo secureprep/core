@@ -82,7 +82,7 @@ Then create a pull request on GitHub.
 
 - 🐛 **Bug reports**: Create an issue with details
 - 💡 **Feature requests**: Open an issue for discussion
-- ❓ **Questions**: Use GitHub Discussions
+- ❓ **Questions**: Use GitHub Discussions or email team@secureprep.dev
 
 ## 📝 Code Style
 
